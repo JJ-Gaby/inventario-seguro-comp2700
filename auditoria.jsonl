@@ -1,0 +1,15 @@
+{"fecha_hora": "2026-11-03T01:16:31.609898+00:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-03T01:16:31.636178+00:00", "usuario": "user", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-03T01:16:31.653701+00:00", "usuario": "admin", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-03T01:16:32.092058+00:00", "usuario": "admin", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-03T01:16:32.103908+00:00", "usuario": "no_existe", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-03T01:16:32.503234+00:00", "usuario": "no_existe", "accion": "login", "resultado": "fallido"}
+{"fecha_hora": "2026-11-03T01:16:32.517016+00:00", "usuario": "user", "accion": "modificar", "resultado": "rechazado_permisos", "producto": "P001"}
+{"fecha_hora": "2026-11-03T01:16:32.518028+00:00", "usuario": "sin_sesion", "accion": "modificar", "resultado": "rechazado_sesion", "producto": "P001"}
+{"fecha_hora": "2026-11-03T01:16:32.518028+00:00", "usuario": "sin_sesion", "accion": "consultar", "resultado": "rechazado_sesion"}
+{"fecha_hora": "2026-11-03T01:16:32.521037+00:00", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 10, "nueva": 0}
+{"fecha_hora": "2026-11-03T01:16:32.521037+00:00", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 0, "nueva": 1000}
+{"fecha_hora": "2026-11-03T01:16:32.521037+00:00", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 1000, "nueva": 10}
+{"fecha_hora": "2026-11-03T01:16:32.943575+00:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
+{"fecha_hora": "2026-11-03T01:16:32.945582+00:00", "usuario": "admin", "accion": "modificar", "resultado": "exitoso", "producto": "P001", "anterior": 10, "nueva": 20}
+{"fecha_hora": "2026-11-03T01:16:33.381309+00:00", "usuario": "admin", "accion": "login", "resultado": "exitoso"}
